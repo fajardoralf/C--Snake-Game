@@ -1,0 +1,24 @@
+﻿  GameManager.cpp
+GameManager.cpp(111): warning C4018: '<': signed/unsigned mismatch
+GameManager.cpp(133): warning C4018: '<': signed/unsigned mismatch
+GameManager.cpp(140): warning C4018: '<': signed/unsigned mismatch
+GameManager.cpp(242): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+GameManager.cpp(281): warning C4018: '<': signed/unsigned mismatch
+GameManager.cpp(286): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameManager.cpp(287): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameManager.cpp(347): warning C4018: '<': signed/unsigned mismatch
+GameManager.cpp(348): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+GameManager.cpp(349): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  InputManager.cpp
+  Main.cpp
+  SDLBmp.cpp
+SDL\SDLBmp.cpp(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+SDL\SDLBmp.cpp(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SDLError.cpp
+  SDLManager.cpp
+  Timer.cpp
+  Generating code
+  All 379 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDL2_Standardproject.vcxproj -> C:\Users\Thinh\Desktop\Oppgaven\Release\Oppgaven.exe
+  SDL2_Standardproject.vcxproj -> C:\Users\Thinh\Desktop\Oppgaven\Release\Oppgaven.pdb (Full PDB)

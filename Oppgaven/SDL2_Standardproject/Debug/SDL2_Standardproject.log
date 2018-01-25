@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDL2_Standardproject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GameManager.cpp
+  InputManager.cpp
+  Main.cpp
+  SDLBmp.cpp
+  SDLError.cpp
+  SDLManager.cpp
+  Timer.cpp
+c:\users\thinh\desktop\oppgaven\sdl2_standardproject\sdl\sdlbmp.cpp(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thinh\desktop\oppgaven\sdl2_standardproject\sdl\sdlbmp.cpp(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\thinh\desktop\oppgaven\sdl2_standardproject\gamemanager.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\thinh\desktop\oppgaven\sdl2_standardproject\gamemanager.cpp(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\thinh\desktop\oppgaven\sdl2_standardproject\gamemanager.cpp(277): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\thinh\desktop\oppgaven\sdl2_standardproject\gamemanager.cpp(318): warning C4018: '<': signed/unsigned mismatch
+c:\users\thinh\desktop\oppgaven\sdl2_standardproject\gamemanager.cpp(323): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thinh\desktop\oppgaven\sdl2_standardproject\gamemanager.cpp(324): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thinh\desktop\oppgaven\sdl2_standardproject\gamemanager.cpp(385): warning C4018: '<': signed/unsigned mismatch
+c:\users\thinh\desktop\oppgaven\sdl2_standardproject\gamemanager.cpp(386): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\thinh\desktop\oppgaven\sdl2_standardproject\gamemanager.cpp(387): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SDL2_Standardproject.vcxproj -> C:\Users\Thinh\Desktop\Oppgaven\Debug\Oppgaven.exe
+  SDL2_Standardproject.vcxproj -> C:\Users\Thinh\Desktop\Oppgaven\Debug\Oppgaven.pdb (Full PDB)
